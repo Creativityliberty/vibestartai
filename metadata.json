@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Foundry OS | VisionDoc",
+  "description": "Ideas to SaaS Deploy. La forge intelligente pour transformer vos visions UI en architectures SaaS prêtes au déploiement.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
